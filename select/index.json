@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "愛してるばんざーい!",
+  "base_artist": "μ's",
+  "createdAt": "2026-02-26T02:42:23.072581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛してるばんざーい!(HONOKA Mix)",
+      "artist": "高坂穂乃果(CV.新田恵海)",
+      "has_synced": false,
+      "path": "select/01_愛してるばんざーい!(HONOKA_Mix)_高坂穂乃果(CV.新田恵海).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛してるばんざーい！(HONOKA Mix)",
+      "artist": "高坂穂乃果(CV. 新田恵海)",
+      "has_synced": false,
+      "path": "select/02_愛してるばんざーい!(HONOKA_Mix)_高坂穂乃果(CV._新田恵海).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛してるばんざーい!(Prepro Piano Mix)",
+      "artist": "西木野真姫(CV.Pile)",
+      "has_synced": false,
+      "path": "select/03_愛してるばんざーい!(Prepro_Piano_Mix)_西木野真姫(CV.Pile).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛してるばんざーい! (Prepro Piano Mix)",
+      "artist": "西木野真姫(CV.Pile)",
+      "has_synced": false,
+      "path": "select/04_愛してるばんざーい!_(Prepro_Piano_Mix)_西木野真姫(CV.Pile).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛してるばんざーい!",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/05_愛してるばんざーい!_μ's.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛してるばんざーい!",
+      "artist": "μ’s",
+      "has_synced": true,
+      "path": "select/06_愛してるばんざーい!_μ’s.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛してるばんざーい!",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/07_愛してるばんざーい!_Muse.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛してるばんざーい!",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/08_愛してるばんざーい!_μ's.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛してるばんざーい！（MAKI Mix）",
+      "artist": "Pile",
+      "has_synced": false,
+      "path": "select/09_愛してるばんざーい!(MAKI_Mix)_Pile.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "愛してるばんざーい！（HANAYO Mix）",
+      "artist": "久保ユリカ",
+      "has_synced": true,
+      "path": "select/10_愛してるばんざーい!(HANAYO_Mix)_久保ユリカ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛してるばんざーい！（UMI Mix）",
+      "artist": "三森すずこ",
+      "has_synced": true,
+      "path": "select/11_愛してるばんざーい!(UMI_Mix)_三森すずこ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "愛してるばんざーい！（NICO Mix）",
+      "artist": "徳井青空",
+      "has_synced": false,
+      "path": "select/12_愛してるばんざーい!(NICO_Mix)_徳井青空.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "愛してるばんざーい！（ELI Mix）",
+      "artist": "南條愛乃",
+      "has_synced": true,
+      "path": "select/13_愛してるばんざーい!(ELI_Mix)_南條愛乃.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "愛してるばんざーい！（ELI Mix）",
+      "artist": "絢瀬絵里",
+      "has_synced": true,
+      "path": "select/14_愛してるばんざーい!(ELI_Mix)_絢瀬絵里.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "愛してるばんざーい！（HONOKA Mix）",
+      "artist": "高坂穂乃果",
+      "has_synced": false,
+      "path": "select/15_愛してるばんざーい!(HONOKA_Mix)_高坂穂乃果.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "愛してるばんざーい！（HANAYO Mix）",
+      "artist": "小泉花陽",
+      "has_synced": false,
+      "path": "select/16_愛してるばんざーい!(HANAYO_Mix)_小泉花陽.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "愛してるばんざーい！（MAKI Mix）",
+      "artist": "西木野真姫",
+      "has_synced": false,
+      "path": "select/17_愛してるばんざーい!(MAKI_Mix)_西木野真姫.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "愛してるばんざーい！（NICO Mix）",
+      "artist": "矢澤にこ",
+      "has_synced": false,
+      "path": "select/18_愛してるばんざーい!(NICO_Mix)_矢澤にこ.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "愛してるばんざーい！（RIN Mix）",
+      "artist": "星空凛",
+      "has_synced": false,
+      "path": "select/19_愛してるばんざーい!(RIN_Mix)_星空凛.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "愛してるばんざーい！（UMI Mix）",
+      "artist": "園田海未",
+      "has_synced": false,
+      "path": "select/20_愛してるばんざーい!(UMI_Mix)_園田海未.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛してるばんざーい!",
+      "artist": "u's",
+      "has_synced": false,
+      "path": "select/pl_01_愛してるばんざーい!_u's.txt"
+    }
+  ]
+}
